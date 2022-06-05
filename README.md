@@ -1,4 +1,4 @@
-# A-real-time-time-domain-speech-enhancement-model
+# A-real-time time-domain-speech-enhancement-model
 
 The model is based on  Dual-Signal Transformation LSTM Network
 
