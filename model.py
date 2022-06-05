@@ -78,7 +78,7 @@ class RTrnn():
         nnoutput=tf.keras.layers.Convolution1D(self.blockLen,1)(r)
         return nnoutput,out_states
     
-   # def staternn(self,nninputs,in_states):
+ 
 
 
     def overlapAddLayer(self, x):
